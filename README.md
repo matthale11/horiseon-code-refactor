@@ -4,7 +4,7 @@
 
 Horiseon Social Solutions is a digital marketing company that provides SEO, reputation management, and social media services. This site provides an overview of their offerings and benefits.
 
-![Homepage](./images/homepage.png)
+![Homepage](./images/homepage.PNG)
 
 ## Deployed Site
 
